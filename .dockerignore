@@ -1,0 +1,15 @@
+**
+!package.json
+!package-lock.json
+!tsconfig.json
+!next-env.d.ts
+!app/
+!app/**
+!lib/
+!lib/**
+!public/
+!public/**
+!scripts/
+!scripts/**
+!tests/
+!tests/**
